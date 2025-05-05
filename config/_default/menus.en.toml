@@ -31,9 +31,9 @@ name = "Contact"
 url = "/contact"
 
 [[main]]
-parent = "Pages"
-name = "Authors"
-url = "/authors"
+parent = "About Us"
+name = "Team"
+url = "/team"
 
 [[main]]
 parent = "Pages"
