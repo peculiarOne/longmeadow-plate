@@ -1,11 +1,11 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
-  image: "/images/banner.png"
+  title: "Welcome to Longmeadow Evangelical Church"
+  content: "Located in the Broadwater area of Stevenage and affiliated with the Fellowship of Independent Evangelical Churches, our aim is to take the gospel of Jesus Christ to our community"
+  image: "/images/lec-mosaic.png"
   button:
-    enable: true
+    enable: false
     label: "Get Started For Free"
     link: "https://github.com/zeon-studio/hugoplate"
 

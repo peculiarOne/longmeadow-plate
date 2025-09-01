@@ -1,0 +1,13 @@
+<div class="bg-body dark:bg-darkmode-body">
+
+  {{ $image:= .Params.image }}
+  {{ if $image }}
+    {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "mb-6 mx-auto rounded" "Size" "180x") }}
+  {{ end }}
+
+  <h4 class="mb-3">
+  {{ .Title }}
+  </h4>
+
+  <p class="mb-6">{{ .Summary | plainify }}</p>
+</div>
