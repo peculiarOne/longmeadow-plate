@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Welcome to Longmeadow Evangelical Church"
-  content: "Located in the Broadwater area of Stevenage and affiliated with the Fellowship of Independent Evangelical Churches, our aim is to take the gospel of Jesus Christ to our community"
+  title: "Welcome"
+  content: "Located in the Broadwater area of Stevenage and affiliated with the **[Fellowship of Independent Evangelical Churches](https://fiec.org.uk)**, our aim is to take the gospel of Jesus Christ to our community"
   image: "/images/lec-mosaic.png"
   button:
     enable: false
